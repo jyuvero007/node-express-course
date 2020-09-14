@@ -1,0 +1,24 @@
+{
+  "name": "ProudPunyRegisters",
+  "version": "1.0.0",
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/jyuvero007/node-express-course)](https://repl.it/github/jyuvero007/node-express-course)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyuvero007/node-express-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyuvero007/node-express-course/issues"
+  },
+  "homepage": "https://github.com/jyuvero007/node-express-course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
